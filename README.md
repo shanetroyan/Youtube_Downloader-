@@ -1,6 +1,6 @@
-# YTDownloader-python-tkinter
-Python-Tkinter Youtube Video Downloader 
+Youtube Video Downloader
+Created and compiled in Python 3.12 using the Tkinter library/plugin
 
-Credit to the following sources for guide: 
+Sources:
 https://www.youtube.com/watch?v=M5M9nybEMAw &amp; 
 https://www.youtube.com/watch?v=DHJJTlFktF8
